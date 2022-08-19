@@ -18,7 +18,7 @@
 
 ## Installation
 
-    cordova plugin add cordova-plugin-firebase-inappmessaging --save
+    cordova plugin add cordova-plugin-firebase-inappmessaging-v5 --save
 
 Use variables `IOS_FIREBASE_INAPPMESSAGING_VERSION` and `ANDROID_FIREBASE_INAPPMESSAGING_VERSION` to override dependency versions for Firebase SDKs.
 
